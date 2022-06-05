@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/currencier/static/css/main.686ca88a.css",
+    "main.js": "/currencier/static/js/main.6690f92f.js",
+    "static/js/787.b0b60c52.chunk.js": "/currencier/static/js/787.b0b60c52.chunk.js",
+    "static/media/logo.svg": "/currencier/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/currencier/index.html",
+    "main.686ca88a.css.map": "/currencier/static/css/main.686ca88a.css.map",
+    "main.6690f92f.js.map": "/currencier/static/js/main.6690f92f.js.map",
+    "787.b0b60c52.chunk.js.map": "/currencier/static/js/787.b0b60c52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.686ca88a.css",
+    "static/js/main.6690f92f.js"
+  ]
+}
